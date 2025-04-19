@@ -1,26 +1,17 @@
-![Cover](https://github.com/nephcode/underconstruction-react/blob/main/.github/images/githubReadmeHeader.png)
+![Cover](https://github.com/nephcode/illuminateam/blob/main/.github/images/githubReadmeHeader.png)
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
-# UNDERCONSTRUCTION REACT
+# ILLUMINATEAM
 
-Template first init project with `vite``react`on `bun runtime`
-
-## PROJECT DELIVERIES
-
-| WHAT FOR               | WHEN         |
-| :--------------------- | ------------ |
-| Deadline MVP           | `18-03-2024` |
-| Deadline CERTIFICATION | `15-04-2024` |
-
+Template first init project with ` vite``react `on `bun runtime`
 
 ## INFORMATIONS
 
-| WHERE     | URL                                    |
-| :-------- | -------------------------------------- |
-| Discord   | [#](#)                                 |
-| Instagram | [https://www.instagram.com/](#)        |
-| www       | [#underconstution](#underconstruction) |
+| WHERE    | URL                                                      |
+| :------- | -------------------------------------------------------- |
+| Linkedin | [Linkedin](https://fr.linkedin.com/company/illuminateam) |
+| www      | [Illuminateam](https://illuminateam.com)                 |
 
 | WHO IS   | FOR             |      COMPANY      | CONTACT | DISCORD |
 | :------- | --------------- | :---------------: | ------- | :-----: |
@@ -28,20 +19,13 @@ Template first init project with `vite``react`on `bun runtime`
 
 ## TECHNO
 
-| TECHNO   | SPEC   |
-| :------- | ------ |
-| FRONTEND | `SASS` |
-| BACKEND |`BUN`|
-| BUNDLE |`VITE`|
+| TECHNO   | SPEC                   |
+| :------- | ---------------------- |
+| FRONTEND | `CSS` `HTML` `VANILLA` |
+| BACKEND  | `STATIC`               |
 
 ## RUNNING THE APPS
 
-Create branch
+No build, that's a pure html
 
-```
-git branch dev
-git branch release
-
-```
-
-![Cover](https://github.com/nephcode/underconstruction-react/blob/main/.github/images/githubReadmeFooter.png)
+![Cover](https://github.com/nephcode/illuminateam/blob/main/.github/images/githubReadmeFooter.png)
