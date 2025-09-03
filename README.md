@@ -4,7 +4,7 @@
 
 # ILLUMINATEAM
 
-Template first init project with ` vite``react `on `bun runtime`
+Template first init project with `vite` `react` on `bun runtime`
 
 ## INFORMATIONS
 
@@ -15,7 +15,7 @@ Template first init project with ` vite``react `on `bun runtime`
 
 | WHO IS   | FOR             |      COMPANY      | CONTACT | DISCORD |
 | :------- | --------------- | :---------------: | ------- | :-----: |
-| Nephelim | Head of concept | Underconstruction | #       |   YES   |
+| Nephelim | Head of concept | Illuminateam      |nephcode |   YES   |
 
 ## TECHNO
 
@@ -25,7 +25,15 @@ Template first init project with ` vite``react `on `bun runtime`
 | BACKEND  | `STATIC`               |
 
 ## RUNNING THE APPS
+This is a little website, the `package.json` run bun. The script reload the site when you save element. :-) really cool feature
 
-No build, that's a pure html
+```bash
+bun run dev
+```
+
+But Without the package, you can run the Website with `bunx`
+```bash
+bunx serve .
+```
 
 ![Cover](https://github.com/nephcode/illuminateam/blob/main/.github/images/githubReadmeFooter.png)

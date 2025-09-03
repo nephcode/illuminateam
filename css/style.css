@@ -11,14 +11,10 @@ body {
 }
 
 main {
-  margin: auto;
-  height: auto;
-  width: clamp(100px, 10vw, 120px);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-footer {
-  position: fixed;
+    /* display: grid; */
+    /* justify-content: center; */
+    margin: auto;
+    /* height: auto; */
+    width: clamp(90px, 10vw, 120px);
+    /* align-items: center; */
 }
